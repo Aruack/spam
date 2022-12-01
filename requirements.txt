@@ -1,0 +1,4 @@
+telethon==1.24.0
+requests
+colorama==0.4.3
+datetime
